@@ -8,7 +8,9 @@ public class Main {
     public static void doSomething(String[] args) {
 
         System.out.println("Charan Sai");
-        System.out.println("complete cha33e");
+        System.out.println("complete change");
+        System.out.println("complete 1");
+        System.out.println("complete 2");
     }
 
 }
