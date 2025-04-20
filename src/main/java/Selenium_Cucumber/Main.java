@@ -7,7 +7,7 @@ public class Main {
     }
     public static void doSomething(String[] args) {
 
-        System.out.println("do somethingUUUUUU");
+        System.out.println("complete change");
     }
 
 }
