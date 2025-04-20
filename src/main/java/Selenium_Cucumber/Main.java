@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Charan Sai");
         System.out.println("complete change");
         System.out.println("complete 1");
-        System.out.println("complete 1");
+        System.out.println("complete 2");
     }
 
 }
